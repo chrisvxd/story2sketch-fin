@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "name": "story2sketch",
+  "services": [
+    {
+      "src": "index.ts",
+      "name": "story2sketch"
+    }
+  ]
+}
